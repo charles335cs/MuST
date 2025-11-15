@@ -28,3 +28,5 @@ python encode.py
 # For watermark decoding:
 python decode.py
 ~~~
+
+**The remaining parts of the code are still being organized and will be released later. If you need anything urgently, feel free to leave a comment in the issue.**
