@@ -7,7 +7,7 @@ The official code does not provide pretrained models or testing scripts and cont
 ---
 
 ## 🔗 Pretrained Models
-- [MuST-SOIM (300 epochs)](https://your-link-here.com)
+- [MuST-SOIM (300 epochs)](https://drive.google.com/file/d/166YUtp43QpWkJ11viUqFX3qVFMO_Z8AL/view?usp=drive_link)
 
 ---
 
