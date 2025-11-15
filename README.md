@@ -13,6 +13,6 @@ The official code does not provide pretrained models or testing scripts and cont
 
 ## 🚀 Training
 ~~~bash
-# Train MuST on SOIM dataset
+# Train MuST on SOIM dataset, you can start from scratch or load pretrained models.
 python main.py
 ~~~
