@@ -16,3 +16,15 @@ The official code does not provide pretrained models or testing scripts and cont
 # Train MuST on SOIM dataset, you can start from scratch or load pretrained models.
 python main.py
 ~~~
+
+## 🚀 Testing
+We split the encoding and decoding process,
+~~~bash
+# For watermark encoding:
+python encode.py
+~~~
+
+~~~bash
+# For watermark decoding:
+python decode.py
+~~~
